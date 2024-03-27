@@ -12,12 +12,6 @@
   "logo": "",
   "dependencies": [
     {
-      "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
-      "publisher": "Microsoft",
-      "name": "Tests-TestLibraries",
-      "version": "22.0.0.0"
-    },
-    {
       "id": "23de40a6-dfe8-4f80-80db-d70f83ce8caf",
       "publisher": "Microsoft",
       "name": "Test Runner",
